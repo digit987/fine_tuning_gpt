@@ -1,0 +1,623 @@
+{"prompt":"Show the emoji with \"coin\" under category \"Objects\"","completion":" 🪙\n"}
+{"prompt":"Show the emoji with \"yen banknote\" under category \"Objects\"","completion":" 💴\n"}
+{"prompt":"Show the emoji with \"dollar banknote\" under category \"Objects\"","completion":" 💵\n"}
+{"prompt":"Show the emoji with \"euro banknote\" under category \"Objects\"","completion":" 💶\n"}
+{"prompt":"Show the emoji with \"pound banknote\" under category \"Objects\"","completion":" 💷\n"}
+{"prompt":"Show the emoji with \"money with wings\" under category \"Objects\"","completion":" 💸\n"}
+{"prompt":"Show the emoji with \"credit card\" under category \"Objects\"","completion":" 💳\n"}
+{"prompt":"Show the emoji with \"receipt\" under category \"Objects\"","completion":" 🧾\n"}
+{"prompt":"Show the emoji with \"chart increasing with yen\" under category \"Objects\"","completion":" 💹\n"}
+{"prompt":"Show the emoji with \"envelope\" under category \"Objects\"","completion":" ✉️\n"}
+{"prompt":"Show the emoji with \"e-mail\" under category \"Objects\"","completion":" 📧\n"}
+{"prompt":"Show the emoji with \"incoming envelope\" under category \"Objects\"","completion":" 📨\n"}
+{"prompt":"Show the emoji with \"envelope with arrow\" under category \"Objects\"","completion":" 📩\n"}
+{"prompt":"Show the emoji with \"outbox tray\" under category \"Objects\"","completion":" 📤\n"}
+{"prompt":"Show the emoji with \"inbox tray\" under category \"Objects\"","completion":" 📥\n"}
+{"prompt":"Show the emoji with \"package\" under category \"Objects\"","completion":" 📦\n"}
+{"prompt":"Show the emoji with \"closed mailbox with raised flag\" under category \"Objects\"","completion":" 📫\n"}
+{"prompt":"Show the emoji with \"closed mailbox with lowered flag\" under category \"Objects\"","completion":" 📪\n"}
+{"prompt":"Show the emoji with \"open mailbox with raised flag\" under category \"Objects\"","completion":" 📬\n"}
+{"prompt":"Show the emoji with \"open mailbox with lowered flag\" under category \"Objects\"","completion":" 📭\n"}
+{"prompt":"Show the emoji with \"postbox\" under category \"Objects\"","completion":" 📮\n"}
+{"prompt":"Show the emoji with \"ballot box with ballot\" under category \"Objects\"","completion":" 🗳️\n"}
+{"prompt":"Show the emoji with \"pencil\" under category \"Objects\"","completion":" ✏️\n"}
+{"prompt":"Show the emoji with \"black nib\" under category \"Objects\"","completion":" ✒️\n"}
+{"prompt":"Show the emoji with \"fountain pen\" under category \"Objects\"","completion":" 🖋️\n"}
+{"prompt":"Show the emoji with \"pen\" under category \"Objects\"","completion":" 🖊️\n"}
+{"prompt":"Show the emoji with \"paintbrush\" under category \"Objects\"","completion":" 🖌️\n"}
+{"prompt":"Show the emoji with \"crayon\" under category \"Objects\"","completion":" 🖍️\n"}
+{"prompt":"Show the emoji with \"memo\" under category \"Objects\"","completion":" 📝\n"}
+{"prompt":"Show the emoji with \"briefcase\" under category \"Objects\"","completion":" 💼\n"}
+{"prompt":"Show the emoji with \"file folder\" under category \"Objects\"","completion":" 📁\n"}
+{"prompt":"Show the emoji with \"open file folder\" under category \"Objects\"","completion":" 📂\n"}
+{"prompt":"Show the emoji with \"card index dividers\" under category \"Objects\"","completion":" 🗂️\n"}
+{"prompt":"Show the emoji with \"calendar\" under category \"Objects\"","completion":" 📅\n"}
+{"prompt":"Show the emoji with \"tear-off calendar\" under category \"Objects\"","completion":" 📆\n"}
+{"prompt":"Show the emoji with \"spiral notepad\" under category \"Objects\"","completion":" 🗒️\n"}
+{"prompt":"Show the emoji with \"spiral calendar\" under category \"Objects\"","completion":" 🗓️\n"}
+{"prompt":"Show the emoji with \"card index\" under category \"Objects\"","completion":" 📇\n"}
+{"prompt":"Show the emoji with \"chart increasing\" under category \"Objects\"","completion":" 📈\n"}
+{"prompt":"Show the emoji with \"chart decreasing\" under category \"Objects\"","completion":" 📉\n"}
+{"prompt":"Show the emoji with \"bar chart\" under category \"Objects\"","completion":" 📊\n"}
+{"prompt":"Show the emoji with \"clipboard\" under category \"Objects\"","completion":" 📋\n"}
+{"prompt":"Show the emoji with \"pushpin\" under category \"Objects\"","completion":" 📌\n"}
+{"prompt":"Show the emoji with \"round pushpin\" under category \"Objects\"","completion":" 📍\n"}
+{"prompt":"Show the emoji with \"paperclip\" under category \"Objects\"","completion":" 📎\n"}
+{"prompt":"Show the emoji with \"linked paperclips\" under category \"Objects\"","completion":" 🖇️\n"}
+{"prompt":"Show the emoji with \"straight ruler\" under category \"Objects\"","completion":" 📏\n"}
+{"prompt":"Show the emoji with \"triangular ruler\" under category \"Objects\"","completion":" 📐\n"}
+{"prompt":"Show the emoji with \"scissors\" under category \"Objects\"","completion":" ✂️\n"}
+{"prompt":"Show the emoji with \"card file box\" under category \"Objects\"","completion":" 🗃️\n"}
+{"prompt":"Show the emoji with \"file cabinet\" under category \"Objects\"","completion":" 🗄️\n"}
+{"prompt":"Show the emoji with \"wastebasket\" under category \"Objects\"","completion":" 🗑️\n"}
+{"prompt":"Show the emoji with \"locked\" under category \"Objects\"","completion":" 🔒\n"}
+{"prompt":"Show the emoji with \"unlocked\" under category \"Objects\"","completion":" 🔓\n"}
+{"prompt":"Show the emoji with \"locked with pen\" under category \"Objects\"","completion":" 🔏\n"}
+{"prompt":"Show the emoji with \"locked with key\" under category \"Objects\"","completion":" 🔐\n"}
+{"prompt":"Show the emoji with \"key\" under category \"Objects\"","completion":" 🔑\n"}
+{"prompt":"Show the emoji with \"old key\" under category \"Objects\"","completion":" 🗝️\n"}
+{"prompt":"Show the emoji with \"hammer\" under category \"Objects\"","completion":" 🔨\n"}
+{"prompt":"Show the emoji with \"axe\" under category \"Objects\"","completion":" 🪓\n"}
+{"prompt":"Show the emoji with \"pick\" under category \"Objects\"","completion":" ⛏️\n"}
+{"prompt":"Show the emoji with \"hammer and pick\" under category \"Objects\"","completion":" ⚒️\n"}
+{"prompt":"Show the emoji with \"hammer and wrench\" under category \"Objects\"","completion":" 🛠️\n"}
+{"prompt":"Show the emoji with \"dagger\" under category \"Objects\"","completion":" 🗡️\n"}
+{"prompt":"Show the emoji with \"crossed swords\" under category \"Objects\"","completion":" ⚔️\n"}
+{"prompt":"Show the emoji with \"bomb\" under category \"Objects\"","completion":" 💣\n"}
+{"prompt":"Show the emoji with \"boomerang\" under category \"Objects\"","completion":" 🪃\n"}
+{"prompt":"Show the emoji with \"bow and arrow\" under category \"Objects\"","completion":" 🏹\n"}
+{"prompt":"Show the emoji with \"shield\" under category \"Objects\"","completion":" 🛡️\n"}
+{"prompt":"Show the emoji with \"carpentry saw\" under category \"Objects\"","completion":" 🪚\n"}
+{"prompt":"Show the emoji with \"wrench\" under category \"Objects\"","completion":" 🔧\n"}
+{"prompt":"Show the emoji with \"screwdriver\" under category \"Objects\"","completion":" 🪛\n"}
+{"prompt":"Show the emoji with \"nut and bolt\" under category \"Objects\"","completion":" 🔩\n"}
+{"prompt":"Show the emoji with \"gear\" under category \"Objects\"","completion":" ⚙️\n"}
+{"prompt":"Show the emoji with \"clamp\" under category \"Objects\"","completion":" 🗜️\n"}
+{"prompt":"Show the emoji with \"balance scale\" under category \"Objects\"","completion":" ⚖️\n"}
+{"prompt":"Show the emoji with \"white cane\" under category \"Objects\"","completion":" 🦯\n"}
+{"prompt":"Show the emoji with \"link\" under category \"Objects\"","completion":" 🔗\n"}
+{"prompt":"Show the emoji with \"chains\" under category \"Objects\"","completion":" ⛓️\n"}
+{"prompt":"Show the emoji with \"hook\" under category \"Objects\"","completion":" 🪝\n"}
+{"prompt":"Show the emoji with \"toolbox\" under category \"Objects\"","completion":" 🧰\n"}
+{"prompt":"Show the emoji with \"magnet\" under category \"Objects\"","completion":" 🧲\n"}
+{"prompt":"Show the emoji with \"ladder\" under category \"Objects\"","completion":" 🪜\n"}
+{"prompt":"Show the emoji with \"alembic\" under category \"Objects\"","completion":" ⚗️\n"}
+{"prompt":"Show the emoji with \"test tube\" under category \"Objects\"","completion":" 🧪\n"}
+{"prompt":"Show the emoji with \"petri dish\" under category \"Objects\"","completion":" 🧫\n"}
+{"prompt":"Show the emoji with \"dna\" under category \"Objects\"","completion":" 🧬\n"}
+{"prompt":"Show the emoji with \"microscope\" under category \"Objects\"","completion":" 🔬\n"}
+{"prompt":"Show the emoji with \"telescope\" under category \"Objects\"","completion":" 🔭\n"}
+{"prompt":"Show the emoji with \"satellite antenna\" under category \"Objects\"","completion":" 📡\n"}
+{"prompt":"Show the emoji with \"syringe\" under category \"Objects\"","completion":" 💉\n"}
+{"prompt":"Show the emoji with \"drop of blood\" under category \"Objects\"","completion":" 🩸\n"}
+{"prompt":"Show the emoji with \"pill\" under category \"Objects\"","completion":" 💊\n"}
+{"prompt":"Show the emoji with \"adhesive bandage\" under category \"Objects\"","completion":" 🩹\n"}
+{"prompt":"Show the emoji with \"crutch\" under category \"Objects\"","completion":" 🩼\n"}
+{"prompt":"Show the emoji with \"stethoscope\" under category \"Objects\"","completion":" 🩺\n"}
+{"prompt":"Show the emoji with \"x-ray\" under category \"Objects\"","completion":" 🩻\n"}
+{"prompt":"Show the emoji with \"door\" under category \"Objects\"","completion":" 🚪\n"}
+{"prompt":"Show the emoji with \"elevator\" under category \"Objects\"","completion":" 🛗\n"}
+{"prompt":"Show the emoji with \"mirror\" under category \"Objects\"","completion":" 🪞\n"}
+{"prompt":"Show the emoji with \"window\" under category \"Objects\"","completion":" 🪟\n"}
+{"prompt":"Show the emoji with \"bed\" under category \"Objects\"","completion":" 🛏️\n"}
+{"prompt":"Show the emoji with \"couch and lamp\" under category \"Objects\"","completion":" 🛋️\n"}
+{"prompt":"Show the emoji with \"chair\" under category \"Objects\"","completion":" 🪑\n"}
+{"prompt":"Show the emoji with \"toilet\" under category \"Objects\"","completion":" 🚽\n"}
+{"prompt":"Show the emoji with \"plunger\" under category \"Objects\"","completion":" 🪠\n"}
+{"prompt":"Show the emoji with \"shower\" under category \"Objects\"","completion":" 🚿\n"}
+{"prompt":"Show the emoji with \"bathtub\" under category \"Objects\"","completion":" 🛁\n"}
+{"prompt":"Show the emoji with \"mouse trap\" under category \"Objects\"","completion":" 🪤\n"}
+{"prompt":"Show the emoji with \"razor\" under category \"Objects\"","completion":" 🪒\n"}
+{"prompt":"Show the emoji with \"lotion bottle\" under category \"Objects\"","completion":" 🧴\n"}
+{"prompt":"Show the emoji with \"safety pin\" under category \"Objects\"","completion":" 🧷\n"}
+{"prompt":"Show the emoji with \"broom\" under category \"Objects\"","completion":" 🧹\n"}
+{"prompt":"Show the emoji with \"basket\" under category \"Objects\"","completion":" 🧺\n"}
+{"prompt":"Show the emoji with \"roll of paper\" under category \"Objects\"","completion":" 🧻\n"}
+{"prompt":"Show the emoji with \"bucket\" under category \"Objects\"","completion":" 🪣\n"}
+{"prompt":"Show the emoji with \"soap\" under category \"Objects\"","completion":" 🧼\n"}
+{"prompt":"Show the emoji with \"bubbles\" under category \"Objects\"","completion":" 🫧\n"}
+{"prompt":"Show the emoji with \"toothbrush\" under category \"Objects\"","completion":" 🪥\n"}
+{"prompt":"Show the emoji with \"sponge\" under category \"Objects\"","completion":" 🧽\n"}
+{"prompt":"Show the emoji with \"fire extinguisher\" under category \"Objects\"","completion":" 🧯\n"}
+{"prompt":"Show the emoji with \"shopping cart\" under category \"Objects\"","completion":" 🛒\n"}
+{"prompt":"Show the emoji with \"cigarette\" under category \"Objects\"","completion":" 🚬\n"}
+{"prompt":"Show the emoji with \"coffin\" under category \"Objects\"","completion":" ⚰️\n"}
+{"prompt":"Show the emoji with \"headstone\" under category \"Objects\"","completion":" 🪦\n"}
+{"prompt":"Show the emoji with \"funeral urn\" under category \"Objects\"","completion":" ⚱️\n"}
+{"prompt":"Show the emoji with \"nazar amulet\" under category \"Objects\"","completion":" 🧿\n"}
+{"prompt":"Show the emoji with \"hamsa\" under category \"Objects\"","completion":" 🪬\n"}
+{"prompt":"Show the emoji with \"moai\" under category \"Objects\"","completion":" 🗿\n"}
+{"prompt":"Show the emoji with \"placard\" under category \"Objects\"","completion":" 🪧\n"}
+{"prompt":"Show the emoji with \"identification card\" under category \"Objects\"","completion":" 🪪\n"}
+{"prompt":"Show the emoji with \"ATM sign\" under category \"Symbols\"","completion":" 🏧\n"}
+{"prompt":"Show the emoji with \"litter in bin sign\" under category \"Symbols\"","completion":" 🚮\n"}
+{"prompt":"Show the emoji with \"potable water\" under category \"Symbols\"","completion":" 🚰\n"}
+{"prompt":"Show the emoji with \"wheelchair symbol\" under category \"Symbols\"","completion":" ♿\n"}
+{"prompt":"Show the emoji with \"men’s room\" under category \"Symbols\"","completion":" 🚹\n"}
+{"prompt":"Show the emoji with \"women’s room\" under category \"Symbols\"","completion":" 🚺\n"}
+{"prompt":"Show the emoji with \"restroom\" under category \"Symbols\"","completion":" 🚻\n"}
+{"prompt":"Show the emoji with \"baby symbol\" under category \"Symbols\"","completion":" 🚼\n"}
+{"prompt":"Show the emoji with \"water closet\" under category \"Symbols\"","completion":" 🚾\n"}
+{"prompt":"Show the emoji with \"passport control\" under category \"Symbols\"","completion":" 🛂\n"}
+{"prompt":"Show the emoji with \"customs\" under category \"Symbols\"","completion":" 🛃\n"}
+{"prompt":"Show the emoji with \"baggage claim\" under category \"Symbols\"","completion":" 🛄\n"}
+{"prompt":"Show the emoji with \"left luggage\" under category \"Symbols\"","completion":" 🛅\n"}
+{"prompt":"Show the emoji with \"warning\" under category \"Symbols\"","completion":" ⚠️\n"}
+{"prompt":"Show the emoji with \"children crossing\" under category \"Symbols\"","completion":" 🚸\n"}
+{"prompt":"Show the emoji with \"no entry\" under category \"Symbols\"","completion":" ⛔\n"}
+{"prompt":"Show the emoji with \"prohibited\" under category \"Symbols\"","completion":" 🚫\n"}
+{"prompt":"Show the emoji with \"no bicycles\" under category \"Symbols\"","completion":" 🚳\n"}
+{"prompt":"Show the emoji with \"no smoking\" under category \"Symbols\"","completion":" 🚭\n"}
+{"prompt":"Show the emoji with \"no littering\" under category \"Symbols\"","completion":" 🚯\n"}
+{"prompt":"Show the emoji with \"non-potable water\" under category \"Symbols\"","completion":" 🚱\n"}
+{"prompt":"Show the emoji with \"no pedestrians\" under category \"Symbols\"","completion":" 🚷\n"}
+{"prompt":"Show the emoji with \"no mobile phones\" under category \"Symbols\"","completion":" 📵\n"}
+{"prompt":"Show the emoji with \"no one under eighteen\" under category \"Symbols\"","completion":" 🔞\n"}
+{"prompt":"Show the emoji with \"radioactive\" under category \"Symbols\"","completion":" ☢️\n"}
+{"prompt":"Show the emoji with \"biohazard\" under category \"Symbols\"","completion":" ☣️\n"}
+{"prompt":"Show the emoji with \"up arrow\" under category \"Symbols\"","completion":" ⬆️\n"}
+{"prompt":"Show the emoji with \"up-right arrow\" under category \"Symbols\"","completion":" ↗️\n"}
+{"prompt":"Show the emoji with \"right arrow\" under category \"Symbols\"","completion":" ➡️\n"}
+{"prompt":"Show the emoji with \"down-right arrow\" under category \"Symbols\"","completion":" ↘️\n"}
+{"prompt":"Show the emoji with \"down arrow\" under category \"Symbols\"","completion":" ⬇️\n"}
+{"prompt":"Show the emoji with \"down-left arrow\" under category \"Symbols\"","completion":" ↙️\n"}
+{"prompt":"Show the emoji with \"left arrow\" under category \"Symbols\"","completion":" ⬅️\n"}
+{"prompt":"Show the emoji with \"up-left arrow\" under category \"Symbols\"","completion":" ↖️\n"}
+{"prompt":"Show the emoji with \"up-down arrow\" under category \"Symbols\"","completion":" ↕️\n"}
+{"prompt":"Show the emoji with \"left-right arrow\" under category \"Symbols\"","completion":" ↔️\n"}
+{"prompt":"Show the emoji with \"right arrow curving left\" under category \"Symbols\"","completion":" ↩️\n"}
+{"prompt":"Show the emoji with \"left arrow curving right\" under category \"Symbols\"","completion":" ↪️\n"}
+{"prompt":"Show the emoji with \"right arrow curving up\" under category \"Symbols\"","completion":" ⤴️\n"}
+{"prompt":"Show the emoji with \"right arrow curving down\" under category \"Symbols\"","completion":" ⤵️\n"}
+{"prompt":"Show the emoji with \"clockwise vertical arrows\" under category \"Symbols\"","completion":" 🔃\n"}
+{"prompt":"Show the emoji with \"counterclockwise arrows button\" under category \"Symbols\"","completion":" 🔄\n"}
+{"prompt":"Show the emoji with \"BACK arrow\" under category \"Symbols\"","completion":" 🔙\n"}
+{"prompt":"Show the emoji with \"END arrow\" under category \"Symbols\"","completion":" 🔚\n"}
+{"prompt":"Show the emoji with \"ON! arrow\" under category \"Symbols\"","completion":" 🔛\n"}
+{"prompt":"Show the emoji with \"SOON arrow\" under category \"Symbols\"","completion":" 🔜\n"}
+{"prompt":"Show the emoji with \"TOP arrow\" under category \"Symbols\"","completion":" 🔝\n"}
+{"prompt":"Show the emoji with \"place of worship\" under category \"Symbols\"","completion":" 🛐\n"}
+{"prompt":"Show the emoji with \"atom symbol\" under category \"Symbols\"","completion":" ⚛️\n"}
+{"prompt":"Show the emoji with \"om\" under category \"Symbols\"","completion":" 🕉️\n"}
+{"prompt":"Show the emoji with \"star of David\" under category \"Symbols\"","completion":" ✡️\n"}
+{"prompt":"Show the emoji with \"wheel of dharma\" under category \"Symbols\"","completion":" ☸️\n"}
+{"prompt":"Show the emoji with \"yin yang\" under category \"Symbols\"","completion":" ☯️\n"}
+{"prompt":"Show the emoji with \"latin cross\" under category \"Symbols\"","completion":" ✝️\n"}
+{"prompt":"Show the emoji with \"orthodox cross\" under category \"Symbols\"","completion":" ☦️\n"}
+{"prompt":"Show the emoji with \"star and crescent\" under category \"Symbols\"","completion":" ☪️\n"}
+{"prompt":"Show the emoji with \"peace symbol\" under category \"Symbols\"","completion":" ☮️\n"}
+{"prompt":"Show the emoji with \"menorah\" under category \"Symbols\"","completion":" 🕎\n"}
+{"prompt":"Show the emoji with \"dotted six-pointed star\" under category \"Symbols\"","completion":" 🔯\n"}
+{"prompt":"Show the emoji with \"khanda\" under category \"Symbols\"","completion":" 🪯\n"}
+{"prompt":"Show the emoji with \"Aries\" under category \"Symbols\"","completion":" ♈\n"}
+{"prompt":"Show the emoji with \"Taurus\" under category \"Symbols\"","completion":" ♉\n"}
+{"prompt":"Show the emoji with \"Gemini\" under category \"Symbols\"","completion":" ♊\n"}
+{"prompt":"Show the emoji with \"Cancer\" under category \"Symbols\"","completion":" ♋\n"}
+{"prompt":"Show the emoji with \"Leo\" under category \"Symbols\"","completion":" ♌\n"}
+{"prompt":"Show the emoji with \"Virgo\" under category \"Symbols\"","completion":" ♍\n"}
+{"prompt":"Show the emoji with \"Libra\" under category \"Symbols\"","completion":" ♎\n"}
+{"prompt":"Show the emoji with \"Scorpio\" under category \"Symbols\"","completion":" ♏\n"}
+{"prompt":"Show the emoji with \"Sagittarius\" under category \"Symbols\"","completion":" ♐\n"}
+{"prompt":"Show the emoji with \"Capricorn\" under category \"Symbols\"","completion":" ♑\n"}
+{"prompt":"Show the emoji with \"Aquarius\" under category \"Symbols\"","completion":" ♒\n"}
+{"prompt":"Show the emoji with \"Pisces\" under category \"Symbols\"","completion":" ♓\n"}
+{"prompt":"Show the emoji with \"Ophiuchus\" under category \"Symbols\"","completion":" ⛎\n"}
+{"prompt":"Show the emoji with \"shuffle tracks button\" under category \"Symbols\"","completion":" 🔀\n"}
+{"prompt":"Show the emoji with \"repeat button\" under category \"Symbols\"","completion":" 🔁\n"}
+{"prompt":"Show the emoji with \"repeat single button\" under category \"Symbols\"","completion":" 🔂\n"}
+{"prompt":"Show the emoji with \"play button\" under category \"Symbols\"","completion":" ▶️\n"}
+{"prompt":"Show the emoji with \"fast-forward button\" under category \"Symbols\"","completion":" ⏩\n"}
+{"prompt":"Show the emoji with \"next track button\" under category \"Symbols\"","completion":" ⏭️\n"}
+{"prompt":"Show the emoji with \"play or pause button\" under category \"Symbols\"","completion":" ⏯️\n"}
+{"prompt":"Show the emoji with \"reverse button\" under category \"Symbols\"","completion":" ◀️\n"}
+{"prompt":"Show the emoji with \"fast reverse button\" under category \"Symbols\"","completion":" ⏪\n"}
+{"prompt":"Show the emoji with \"last track button\" under category \"Symbols\"","completion":" ⏮️\n"}
+{"prompt":"Show the emoji with \"upwards button\" under category \"Symbols\"","completion":" 🔼\n"}
+{"prompt":"Show the emoji with \"fast up button\" under category \"Symbols\"","completion":" ⏫\n"}
+{"prompt":"Show the emoji with \"downwards button\" under category \"Symbols\"","completion":" 🔽\n"}
+{"prompt":"Show the emoji with \"fast down button\" under category \"Symbols\"","completion":" ⏬\n"}
+{"prompt":"Show the emoji with \"pause button\" under category \"Symbols\"","completion":" ⏸️\n"}
+{"prompt":"Show the emoji with \"stop button\" under category \"Symbols\"","completion":" ⏹️\n"}
+{"prompt":"Show the emoji with \"record button\" under category \"Symbols\"","completion":" ⏺️\n"}
+{"prompt":"Show the emoji with \"eject button\" under category \"Symbols\"","completion":" ⏏️\n"}
+{"prompt":"Show the emoji with \"cinema\" under category \"Symbols\"","completion":" 🎦\n"}
+{"prompt":"Show the emoji with \"dim button\" under category \"Symbols\"","completion":" 🔅\n"}
+{"prompt":"Show the emoji with \"bright button\" under category \"Symbols\"","completion":" 🔆\n"}
+{"prompt":"Show the emoji with \"antenna bars\" under category \"Symbols\"","completion":" 📶\n"}
+{"prompt":"Show the emoji with \"wireless\" under category \"Symbols\"","completion":" 🛜\n"}
+{"prompt":"Show the emoji with \"vibration mode\" under category \"Symbols\"","completion":" 📳\n"}
+{"prompt":"Show the emoji with \"mobile phone off\" under category \"Symbols\"","completion":" 📴\n"}
+{"prompt":"Show the emoji with \"female sign\" under category \"Symbols\"","completion":" ♀️\n"}
+{"prompt":"Show the emoji with \"male sign\" under category \"Symbols\"","completion":" ♂️\n"}
+{"prompt":"Show the emoji with \"transgender symbol\" under category \"Symbols\"","completion":" ⚧️\n"}
+{"prompt":"Show the emoji with \"multiply\" under category \"Symbols\"","completion":" ✖️\n"}
+{"prompt":"Show the emoji with \"plus\" under category \"Symbols\"","completion":" ➕\n"}
+{"prompt":"Show the emoji with \"minus\" under category \"Symbols\"","completion":" ➖\n"}
+{"prompt":"Show the emoji with \"divide\" under category \"Symbols\"","completion":" ➗\n"}
+{"prompt":"Show the emoji with \"heavy equals sign\" under category \"Symbols\"","completion":" 🟰\n"}
+{"prompt":"Show the emoji with \"infinity\" under category \"Symbols\"","completion":" ♾️\n"}
+{"prompt":"Show the emoji with \"double exclamation mark\" under category \"Symbols\"","completion":" ‼️\n"}
+{"prompt":"Show the emoji with \"exclamation question mark\" under category \"Symbols\"","completion":" ⁉️\n"}
+{"prompt":"Show the emoji with \"red question mark\" under category \"Symbols\"","completion":" ❓\n"}
+{"prompt":"Show the emoji with \"white question mark\" under category \"Symbols\"","completion":" ❔\n"}
+{"prompt":"Show the emoji with \"white exclamation mark\" under category \"Symbols\"","completion":" ❕\n"}
+{"prompt":"Show the emoji with \"red exclamation mark\" under category \"Symbols\"","completion":" ❗\n"}
+{"prompt":"Show the emoji with \"wavy dash\" under category \"Symbols\"","completion":" 〰️\n"}
+{"prompt":"Show the emoji with \"currency exchange\" under category \"Symbols\"","completion":" 💱\n"}
+{"prompt":"Show the emoji with \"heavy dollar sign\" under category \"Symbols\"","completion":" 💲\n"}
+{"prompt":"Show the emoji with \"medical symbol\" under category \"Symbols\"","completion":" ⚕️\n"}
+{"prompt":"Show the emoji with \"recycling symbol\" under category \"Symbols\"","completion":" ♻️\n"}
+{"prompt":"Show the emoji with \"fleur-de-lis\" under category \"Symbols\"","completion":" ⚜️\n"}
+{"prompt":"Show the emoji with \"trident emblem\" under category \"Symbols\"","completion":" 🔱\n"}
+{"prompt":"Show the emoji with \"name badge\" under category \"Symbols\"","completion":" 📛\n"}
+{"prompt":"Show the emoji with \"Japanese symbol for beginner\" under category \"Symbols\"","completion":" 🔰\n"}
+{"prompt":"Show the emoji with \"hollow red circle\" under category \"Symbols\"","completion":" ⭕\n"}
+{"prompt":"Show the emoji with \"check mark button\" under category \"Symbols\"","completion":" ✅\n"}
+{"prompt":"Show the emoji with \"check box with check\" under category \"Symbols\"","completion":" ☑️\n"}
+{"prompt":"Show the emoji with \"check mark\" under category \"Symbols\"","completion":" ✔️\n"}
+{"prompt":"Show the emoji with \"cross mark\" under category \"Symbols\"","completion":" ❌\n"}
+{"prompt":"Show the emoji with \"cross mark button\" under category \"Symbols\"","completion":" ❎\n"}
+{"prompt":"Show the emoji with \"curly loop\" under category \"Symbols\"","completion":" ➰\n"}
+{"prompt":"Show the emoji with \"double curly loop\" under category \"Symbols\"","completion":" ➿\n"}
+{"prompt":"Show the emoji with \"part alternation mark\" under category \"Symbols\"","completion":" 〽️\n"}
+{"prompt":"Show the emoji with \"eight-spoked asterisk\" under category \"Symbols\"","completion":" ✳️\n"}
+{"prompt":"Show the emoji with \"eight-pointed star\" under category \"Symbols\"","completion":" ✴️\n"}
+{"prompt":"Show the emoji with \"sparkle\" under category \"Symbols\"","completion":" ❇️\n"}
+{"prompt":"Show the emoji with \"copyright\" under category \"Symbols\"","completion":" ©️\n"}
+{"prompt":"Show the emoji with \"registered\" under category \"Symbols\"","completion":" ®️\n"}
+{"prompt":"Show the emoji with \"trade mark\" under category \"Symbols\"","completion":" ™️\n"}
+{"prompt":"Show the emoji with \"keycap: #\" under category \"Symbols\"","completion":" #️⃣\n"}
+{"prompt":"Show the emoji with \"keycap: *\" under category \"Symbols\"","completion":" *️⃣\n"}
+{"prompt":"Show the emoji with \"keycap: 0\" under category \"Symbols\"","completion":" 0️⃣\n"}
+{"prompt":"Show the emoji with \"keycap: 1\" under category \"Symbols\"","completion":" 1️⃣\n"}
+{"prompt":"Show the emoji with \"keycap: 2\" under category \"Symbols\"","completion":" 2️⃣\n"}
+{"prompt":"Show the emoji with \"keycap: 3\" under category \"Symbols\"","completion":" 3️⃣\n"}
+{"prompt":"Show the emoji with \"keycap: 4\" under category \"Symbols\"","completion":" 4️⃣\n"}
+{"prompt":"Show the emoji with \"keycap: 5\" under category \"Symbols\"","completion":" 5️⃣\n"}
+{"prompt":"Show the emoji with \"keycap: 6\" under category \"Symbols\"","completion":" 6️⃣\n"}
+{"prompt":"Show the emoji with \"keycap: 7\" under category \"Symbols\"","completion":" 7️⃣\n"}
+{"prompt":"Show the emoji with \"keycap: 8\" under category \"Symbols\"","completion":" 8️⃣\n"}
+{"prompt":"Show the emoji with \"keycap: 9\" under category \"Symbols\"","completion":" 9️⃣\n"}
+{"prompt":"Show the emoji with \"keycap: 10\" under category \"Symbols\"","completion":" 🔟\n"}
+{"prompt":"Show the emoji with \"input latin uppercase\" under category \"Symbols\"","completion":" 🔠\n"}
+{"prompt":"Show the emoji with \"input latin lowercase\" under category \"Symbols\"","completion":" 🔡\n"}
+{"prompt":"Show the emoji with \"input numbers\" under category \"Symbols\"","completion":" 🔢\n"}
+{"prompt":"Show the emoji with \"input symbols\" under category \"Symbols\"","completion":" 🔣\n"}
+{"prompt":"Show the emoji with \"input latin letters\" under category \"Symbols\"","completion":" 🔤\n"}
+{"prompt":"Show the emoji with \"A button (blood type)\" under category \"Symbols\"","completion":" 🅰️\n"}
+{"prompt":"Show the emoji with \"AB button (blood type)\" under category \"Symbols\"","completion":" 🆎\n"}
+{"prompt":"Show the emoji with \"B button (blood type)\" under category \"Symbols\"","completion":" 🅱️\n"}
+{"prompt":"Show the emoji with \"CL button\" under category \"Symbols\"","completion":" 🆑\n"}
+{"prompt":"Show the emoji with \"COOL button\" under category \"Symbols\"","completion":" 🆒\n"}
+{"prompt":"Show the emoji with \"FREE button\" under category \"Symbols\"","completion":" 🆓\n"}
+{"prompt":"Show the emoji with \"information\" under category \"Symbols\"","completion":" ℹ️\n"}
+{"prompt":"Show the emoji with \"ID button\" under category \"Symbols\"","completion":" 🆔\n"}
+{"prompt":"Show the emoji with \"circled M\" under category \"Symbols\"","completion":" Ⓜ️\n"}
+{"prompt":"Show the emoji with \"NEW button\" under category \"Symbols\"","completion":" 🆕\n"}
+{"prompt":"Show the emoji with \"NG button\" under category \"Symbols\"","completion":" 🆖\n"}
+{"prompt":"Show the emoji with \"O button (blood type)\" under category \"Symbols\"","completion":" 🅾️\n"}
+{"prompt":"Show the emoji with \"OK button\" under category \"Symbols\"","completion":" 🆗\n"}
+{"prompt":"Show the emoji with \"P button\" under category \"Symbols\"","completion":" 🅿️\n"}
+{"prompt":"Show the emoji with \"SOS button\" under category \"Symbols\"","completion":" 🆘\n"}
+{"prompt":"Show the emoji with \"UP! button\" under category \"Symbols\"","completion":" 🆙\n"}
+{"prompt":"Show the emoji with \"VS button\" under category \"Symbols\"","completion":" 🆚\n"}
+{"prompt":"Show the emoji with \"Japanese “here” button\" under category \"Symbols\"","completion":" 🈁\n"}
+{"prompt":"Show the emoji with \"Japanese “service charge” button\" under category \"Symbols\"","completion":" 🈂️\n"}
+{"prompt":"Show the emoji with \"Japanese “monthly amount” button\" under category \"Symbols\"","completion":" 🈷️\n"}
+{"prompt":"Show the emoji with \"Japanese “not free of charge” button\" under category \"Symbols\"","completion":" 🈶\n"}
+{"prompt":"Show the emoji with \"Japanese “reserved” button\" under category \"Symbols\"","completion":" 🈯\n"}
+{"prompt":"Show the emoji with \"Japanese “bargain” button\" under category \"Symbols\"","completion":" 🉐\n"}
+{"prompt":"Show the emoji with \"Japanese “discount” button\" under category \"Symbols\"","completion":" 🈹\n"}
+{"prompt":"Show the emoji with \"Japanese “free of charge” button\" under category \"Symbols\"","completion":" 🈚\n"}
+{"prompt":"Show the emoji with \"Japanese “prohibited” button\" under category \"Symbols\"","completion":" 🈲\n"}
+{"prompt":"Show the emoji with \"Japanese “acceptable” button\" under category \"Symbols\"","completion":" 🉑\n"}
+{"prompt":"Show the emoji with \"Japanese “application” button\" under category \"Symbols\"","completion":" 🈸\n"}
+{"prompt":"Show the emoji with \"Japanese “passing grade” button\" under category \"Symbols\"","completion":" 🈴\n"}
+{"prompt":"Show the emoji with \"Japanese “vacancy” button\" under category \"Symbols\"","completion":" 🈳\n"}
+{"prompt":"Show the emoji with \"Japanese “congratulations” button\" under category \"Symbols\"","completion":" ㊗️\n"}
+{"prompt":"Show the emoji with \"Japanese “secret” button\" under category \"Symbols\"","completion":" ㊙️\n"}
+{"prompt":"Show the emoji with \"Japanese “open for business” button\" under category \"Symbols\"","completion":" 🈺\n"}
+{"prompt":"Show the emoji with \"Japanese “no vacancy” button\" under category \"Symbols\"","completion":" 🈵\n"}
+{"prompt":"Show the emoji with \"red circle\" under category \"Symbols\"","completion":" 🔴\n"}
+{"prompt":"Show the emoji with \"orange circle\" under category \"Symbols\"","completion":" 🟠\n"}
+{"prompt":"Show the emoji with \"yellow circle\" under category \"Symbols\"","completion":" 🟡\n"}
+{"prompt":"Show the emoji with \"green circle\" under category \"Symbols\"","completion":" 🟢\n"}
+{"prompt":"Show the emoji with \"blue circle\" under category \"Symbols\"","completion":" 🔵\n"}
+{"prompt":"Show the emoji with \"purple circle\" under category \"Symbols\"","completion":" 🟣\n"}
+{"prompt":"Show the emoji with \"brown circle\" under category \"Symbols\"","completion":" 🟤\n"}
+{"prompt":"Show the emoji with \"black circle\" under category \"Symbols\"","completion":" ⚫\n"}
+{"prompt":"Show the emoji with \"white circle\" under category \"Symbols\"","completion":" ⚪\n"}
+{"prompt":"Show the emoji with \"red square\" under category \"Symbols\"","completion":" 🟥\n"}
+{"prompt":"Show the emoji with \"orange square\" under category \"Symbols\"","completion":" 🟧\n"}
+{"prompt":"Show the emoji with \"yellow square\" under category \"Symbols\"","completion":" 🟨\n"}
+{"prompt":"Show the emoji with \"green square\" under category \"Symbols\"","completion":" 🟩\n"}
+{"prompt":"Show the emoji with \"blue square\" under category \"Symbols\"","completion":" 🟦\n"}
+{"prompt":"Show the emoji with \"purple square\" under category \"Symbols\"","completion":" 🟪\n"}
+{"prompt":"Show the emoji with \"brown square\" under category \"Symbols\"","completion":" 🟫\n"}
+{"prompt":"Show the emoji with \"black large square\" under category \"Symbols\"","completion":" ⬛\n"}
+{"prompt":"Show the emoji with \"white large square\" under category \"Symbols\"","completion":" ⬜\n"}
+{"prompt":"Show the emoji with \"black medium square\" under category \"Symbols\"","completion":" ◼️\n"}
+{"prompt":"Show the emoji with \"white medium square\" under category \"Symbols\"","completion":" ◻️\n"}
+{"prompt":"Show the emoji with \"black medium-small square\" under category \"Symbols\"","completion":" ◾\n"}
+{"prompt":"Show the emoji with \"white medium-small square\" under category \"Symbols\"","completion":" ◽\n"}
+{"prompt":"Show the emoji with \"black small square\" under category \"Symbols\"","completion":" ▪️\n"}
+{"prompt":"Show the emoji with \"white small square\" under category \"Symbols\"","completion":" ▫️\n"}
+{"prompt":"Show the emoji with \"large orange diamond\" under category \"Symbols\"","completion":" 🔶\n"}
+{"prompt":"Show the emoji with \"large blue diamond\" under category \"Symbols\"","completion":" 🔷\n"}
+{"prompt":"Show the emoji with \"small orange diamond\" under category \"Symbols\"","completion":" 🔸\n"}
+{"prompt":"Show the emoji with \"small blue diamond\" under category \"Symbols\"","completion":" 🔹\n"}
+{"prompt":"Show the emoji with \"red triangle pointed up\" under category \"Symbols\"","completion":" 🔺\n"}
+{"prompt":"Show the emoji with \"red triangle pointed down\" under category \"Symbols\"","completion":" 🔻\n"}
+{"prompt":"Show the emoji with \"diamond with a dot\" under category \"Symbols\"","completion":" 💠\n"}
+{"prompt":"Show the emoji with \"radio button\" under category \"Symbols\"","completion":" 🔘\n"}
+{"prompt":"Show the emoji with \"white square button\" under category \"Symbols\"","completion":" 🔳\n"}
+{"prompt":"Show the emoji with \"black square button\" under category \"Symbols\"","completion":" 🔲\n"}
+{"prompt":"Show the emoji with \"chequered flag\" under category \"Flags\"","completion":" 🏁\n"}
+{"prompt":"Show the emoji with \"triangular flag\" under category \"Flags\"","completion":" 🚩\n"}
+{"prompt":"Show the emoji with \"crossed flags\" under category \"Flags\"","completion":" 🎌\n"}
+{"prompt":"Show the emoji with \"black flag\" under category \"Flags\"","completion":" 🏴\n"}
+{"prompt":"Show the emoji with \"white flag\" under category \"Flags\"","completion":" 🏳️\n"}
+{"prompt":"Show the emoji with \"rainbow flag\" under category \"Flags\"","completion":" 🏳️‍🌈\n"}
+{"prompt":"Show the emoji with \"transgender flag\" under category \"Flags\"","completion":" 🏳️‍⚧️\n"}
+{"prompt":"Show the emoji with \"pirate flag\" under category \"Flags\"","completion":" 🏴‍☠️\n"}
+{"prompt":"Show the emoji with \"flag: Ascension Island\" under category \"Flags\"","completion":" 🇦🇨\n"}
+{"prompt":"Show the emoji with \"flag: Andorra\" under category \"Flags\"","completion":" 🇦🇩\n"}
+{"prompt":"Show the emoji with \"flag: United Arab Emirates\" under category \"Flags\"","completion":" 🇦🇪\n"}
+{"prompt":"Show the emoji with \"flag: Afghanistan\" under category \"Flags\"","completion":" 🇦🇫\n"}
+{"prompt":"Show the emoji with \"flag: Antigua & Barbuda\" under category \"Flags\"","completion":" 🇦🇬\n"}
+{"prompt":"Show the emoji with \"flag: Anguilla\" under category \"Flags\"","completion":" 🇦🇮\n"}
+{"prompt":"Show the emoji with \"flag: Albania\" under category \"Flags\"","completion":" 🇦🇱\n"}
+{"prompt":"Show the emoji with \"flag: Armenia\" under category \"Flags\"","completion":" 🇦🇲\n"}
+{"prompt":"Show the emoji with \"flag: Angola\" under category \"Flags\"","completion":" 🇦🇴\n"}
+{"prompt":"Show the emoji with \"flag: Antarctica\" under category \"Flags\"","completion":" 🇦🇶\n"}
+{"prompt":"Show the emoji with \"flag: Argentina\" under category \"Flags\"","completion":" 🇦🇷\n"}
+{"prompt":"Show the emoji with \"flag: American Samoa\" under category \"Flags\"","completion":" 🇦🇸\n"}
+{"prompt":"Show the emoji with \"flag: Austria\" under category \"Flags\"","completion":" 🇦🇹\n"}
+{"prompt":"Show the emoji with \"flag: Australia\" under category \"Flags\"","completion":" 🇦🇺\n"}
+{"prompt":"Show the emoji with \"flag: Aruba\" under category \"Flags\"","completion":" 🇦🇼\n"}
+{"prompt":"Show the emoji with \"flag: Åland Islands\" under category \"Flags\"","completion":" 🇦🇽\n"}
+{"prompt":"Show the emoji with \"flag: Azerbaijan\" under category \"Flags\"","completion":" 🇦🇿\n"}
+{"prompt":"Show the emoji with \"flag: Bosnia & Herzegovina\" under category \"Flags\"","completion":" 🇧🇦\n"}
+{"prompt":"Show the emoji with \"flag: Barbados\" under category \"Flags\"","completion":" 🇧🇧\n"}
+{"prompt":"Show the emoji with \"flag: Bangladesh\" under category \"Flags\"","completion":" 🇧🇩\n"}
+{"prompt":"Show the emoji with \"flag: Belgium\" under category \"Flags\"","completion":" 🇧🇪\n"}
+{"prompt":"Show the emoji with \"flag: Burkina Faso\" under category \"Flags\"","completion":" 🇧🇫\n"}
+{"prompt":"Show the emoji with \"flag: Bulgaria\" under category \"Flags\"","completion":" 🇧🇬\n"}
+{"prompt":"Show the emoji with \"flag: Bahrain\" under category \"Flags\"","completion":" 🇧🇭\n"}
+{"prompt":"Show the emoji with \"flag: Burundi\" under category \"Flags\"","completion":" 🇧🇮\n"}
+{"prompt":"Show the emoji with \"flag: Benin\" under category \"Flags\"","completion":" 🇧🇯\n"}
+{"prompt":"Show the emoji with \"flag: St. Barthélemy\" under category \"Flags\"","completion":" 🇧🇱\n"}
+{"prompt":"Show the emoji with \"flag: Bermuda\" under category \"Flags\"","completion":" 🇧🇲\n"}
+{"prompt":"Show the emoji with \"flag: Brunei\" under category \"Flags\"","completion":" 🇧🇳\n"}
+{"prompt":"Show the emoji with \"flag: Bolivia\" under category \"Flags\"","completion":" 🇧🇴\n"}
+{"prompt":"Show the emoji with \"flag: Caribbean Netherlands\" under category \"Flags\"","completion":" 🇧🇶\n"}
+{"prompt":"Show the emoji with \"flag: Brazil\" under category \"Flags\"","completion":" 🇧🇷\n"}
+{"prompt":"Show the emoji with \"flag: Bahamas\" under category \"Flags\"","completion":" 🇧🇸\n"}
+{"prompt":"Show the emoji with \"flag: Bhutan\" under category \"Flags\"","completion":" 🇧🇹\n"}
+{"prompt":"Show the emoji with \"flag: Bouvet Island\" under category \"Flags\"","completion":" 🇧🇻\n"}
+{"prompt":"Show the emoji with \"flag: Botswana\" under category \"Flags\"","completion":" 🇧🇼\n"}
+{"prompt":"Show the emoji with \"flag: Belarus\" under category \"Flags\"","completion":" 🇧🇾\n"}
+{"prompt":"Show the emoji with \"flag: Belize\" under category \"Flags\"","completion":" 🇧🇿\n"}
+{"prompt":"Show the emoji with \"flag: Canada\" under category \"Flags\"","completion":" 🇨🇦\n"}
+{"prompt":"Show the emoji with \"flag: Cocos (Keeling) Islands\" under category \"Flags\"","completion":" 🇨🇨\n"}
+{"prompt":"Show the emoji with \"flag: Congo - Kinshasa\" under category \"Flags\"","completion":" 🇨🇩\n"}
+{"prompt":"Show the emoji with \"flag: Central African Republic\" under category \"Flags\"","completion":" 🇨🇫\n"}
+{"prompt":"Show the emoji with \"flag: Congo - Brazzaville\" under category \"Flags\"","completion":" 🇨🇬\n"}
+{"prompt":"Show the emoji with \"flag: Switzerland\" under category \"Flags\"","completion":" 🇨🇭\n"}
+{"prompt":"Show the emoji with \"flag: Côte d’Ivoire\" under category \"Flags\"","completion":" 🇨🇮\n"}
+{"prompt":"Show the emoji with \"flag: Cook Islands\" under category \"Flags\"","completion":" 🇨🇰\n"}
+{"prompt":"Show the emoji with \"flag: Chile\" under category \"Flags\"","completion":" 🇨🇱\n"}
+{"prompt":"Show the emoji with \"flag: Cameroon\" under category \"Flags\"","completion":" 🇨🇲\n"}
+{"prompt":"Show the emoji with \"flag: China\" under category \"Flags\"","completion":" 🇨🇳\n"}
+{"prompt":"Show the emoji with \"flag: Colombia\" under category \"Flags\"","completion":" 🇨🇴\n"}
+{"prompt":"Show the emoji with \"flag: Clipperton Island\" under category \"Flags\"","completion":" 🇨🇵\n"}
+{"prompt":"Show the emoji with \"flag: Costa Rica\" under category \"Flags\"","completion":" 🇨🇷\n"}
+{"prompt":"Show the emoji with \"flag: Cuba\" under category \"Flags\"","completion":" 🇨🇺\n"}
+{"prompt":"Show the emoji with \"flag: Cape Verde\" under category \"Flags\"","completion":" 🇨🇻\n"}
+{"prompt":"Show the emoji with \"flag: Curaçao\" under category \"Flags\"","completion":" 🇨🇼\n"}
+{"prompt":"Show the emoji with \"flag: Christmas Island\" under category \"Flags\"","completion":" 🇨🇽\n"}
+{"prompt":"Show the emoji with \"flag: Cyprus\" under category \"Flags\"","completion":" 🇨🇾\n"}
+{"prompt":"Show the emoji with \"flag: Czechia\" under category \"Flags\"","completion":" 🇨🇿\n"}
+{"prompt":"Show the emoji with \"flag: Germany\" under category \"Flags\"","completion":" 🇩🇪\n"}
+{"prompt":"Show the emoji with \"flag: Diego Garcia\" under category \"Flags\"","completion":" 🇩🇬\n"}
+{"prompt":"Show the emoji with \"flag: Djibouti\" under category \"Flags\"","completion":" 🇩🇯\n"}
+{"prompt":"Show the emoji with \"flag: Denmark\" under category \"Flags\"","completion":" 🇩🇰\n"}
+{"prompt":"Show the emoji with \"flag: Dominica\" under category \"Flags\"","completion":" 🇩🇲\n"}
+{"prompt":"Show the emoji with \"flag: Dominican Republic\" under category \"Flags\"","completion":" 🇩🇴\n"}
+{"prompt":"Show the emoji with \"flag: Algeria\" under category \"Flags\"","completion":" 🇩🇿\n"}
+{"prompt":"Show the emoji with \"flag: Ceuta & Melilla\" under category \"Flags\"","completion":" 🇪🇦\n"}
+{"prompt":"Show the emoji with \"flag: Ecuador\" under category \"Flags\"","completion":" 🇪🇨\n"}
+{"prompt":"Show the emoji with \"flag: Estonia\" under category \"Flags\"","completion":" 🇪🇪\n"}
+{"prompt":"Show the emoji with \"flag: Egypt\" under category \"Flags\"","completion":" 🇪🇬\n"}
+{"prompt":"Show the emoji with \"flag: Western Sahara\" under category \"Flags\"","completion":" 🇪🇭\n"}
+{"prompt":"Show the emoji with \"flag: Eritrea\" under category \"Flags\"","completion":" 🇪🇷\n"}
+{"prompt":"Show the emoji with \"flag: Spain\" under category \"Flags\"","completion":" 🇪🇸\n"}
+{"prompt":"Show the emoji with \"flag: Ethiopia\" under category \"Flags\"","completion":" 🇪🇹\n"}
+{"prompt":"Show the emoji with \"flag: European Union\" under category \"Flags\"","completion":" 🇪🇺\n"}
+{"prompt":"Show the emoji with \"flag: Finland\" under category \"Flags\"","completion":" 🇫🇮\n"}
+{"prompt":"Show the emoji with \"flag: Fiji\" under category \"Flags\"","completion":" 🇫🇯\n"}
+{"prompt":"Show the emoji with \"flag: Falkland Islands\" under category \"Flags\"","completion":" 🇫🇰\n"}
+{"prompt":"Show the emoji with \"flag: Micronesia\" under category \"Flags\"","completion":" 🇫🇲\n"}
+{"prompt":"Show the emoji with \"flag: Faroe Islands\" under category \"Flags\"","completion":" 🇫🇴\n"}
+{"prompt":"Show the emoji with \"flag: France\" under category \"Flags\"","completion":" 🇫🇷\n"}
+{"prompt":"Show the emoji with \"flag: Gabon\" under category \"Flags\"","completion":" 🇬🇦\n"}
+{"prompt":"Show the emoji with \"flag: United Kingdom\" under category \"Flags\"","completion":" 🇬🇧\n"}
+{"prompt":"Show the emoji with \"flag: Grenada\" under category \"Flags\"","completion":" 🇬🇩\n"}
+{"prompt":"Show the emoji with \"flag: Georgia\" under category \"Flags\"","completion":" 🇬🇪\n"}
+{"prompt":"Show the emoji with \"flag: French Guiana\" under category \"Flags\"","completion":" 🇬🇫\n"}
+{"prompt":"Show the emoji with \"flag: Guernsey\" under category \"Flags\"","completion":" 🇬🇬\n"}
+{"prompt":"Show the emoji with \"flag: Ghana\" under category \"Flags\"","completion":" 🇬🇭\n"}
+{"prompt":"Show the emoji with \"flag: Gibraltar\" under category \"Flags\"","completion":" 🇬🇮\n"}
+{"prompt":"Show the emoji with \"flag: Greenland\" under category \"Flags\"","completion":" 🇬🇱\n"}
+{"prompt":"Show the emoji with \"flag: Gambia\" under category \"Flags\"","completion":" 🇬🇲\n"}
+{"prompt":"Show the emoji with \"flag: Guinea\" under category \"Flags\"","completion":" 🇬🇳\n"}
+{"prompt":"Show the emoji with \"flag: Guadeloupe\" under category \"Flags\"","completion":" 🇬🇵\n"}
+{"prompt":"Show the emoji with \"flag: Equatorial Guinea\" under category \"Flags\"","completion":" 🇬🇶\n"}
+{"prompt":"Show the emoji with \"flag: Greece\" under category \"Flags\"","completion":" 🇬🇷\n"}
+{"prompt":"Show the emoji with \"flag: South Georgia & South Sandwich Islands\" under category \"Flags\"","completion":" 🇬🇸\n"}
+{"prompt":"Show the emoji with \"flag: Guatemala\" under category \"Flags\"","completion":" 🇬🇹\n"}
+{"prompt":"Show the emoji with \"flag: Guam\" under category \"Flags\"","completion":" 🇬🇺\n"}
+{"prompt":"Show the emoji with \"flag: Guinea-Bissau\" under category \"Flags\"","completion":" 🇬🇼\n"}
+{"prompt":"Show the emoji with \"flag: Guyana\" under category \"Flags\"","completion":" 🇬🇾\n"}
+{"prompt":"Show the emoji with \"flag: Hong Kong SAR China\" under category \"Flags\"","completion":" 🇭🇰\n"}
+{"prompt":"Show the emoji with \"flag: Heard & McDonald Islands\" under category \"Flags\"","completion":" 🇭🇲\n"}
+{"prompt":"Show the emoji with \"flag: Honduras\" under category \"Flags\"","completion":" 🇭🇳\n"}
+{"prompt":"Show the emoji with \"flag: Croatia\" under category \"Flags\"","completion":" 🇭🇷\n"}
+{"prompt":"Show the emoji with \"flag: Haiti\" under category \"Flags\"","completion":" 🇭🇹\n"}
+{"prompt":"Show the emoji with \"flag: Hungary\" under category \"Flags\"","completion":" 🇭🇺\n"}
+{"prompt":"Show the emoji with \"flag: Canary Islands\" under category \"Flags\"","completion":" 🇮🇨\n"}
+{"prompt":"Show the emoji with \"flag: Indonesia\" under category \"Flags\"","completion":" 🇮🇩\n"}
+{"prompt":"Show the emoji with \"flag: Ireland\" under category \"Flags\"","completion":" 🇮🇪\n"}
+{"prompt":"Show the emoji with \"flag: Israel\" under category \"Flags\"","completion":" 🇮🇱\n"}
+{"prompt":"Show the emoji with \"flag: Isle of Man\" under category \"Flags\"","completion":" 🇮🇲\n"}
+{"prompt":"Show the emoji with \"flag: India\" under category \"Flags\"","completion":" 🇮🇳\n"}
+{"prompt":"Show the emoji with \"flag: British Indian Ocean Territory\" under category \"Flags\"","completion":" 🇮🇴\n"}
+{"prompt":"Show the emoji with \"flag: Iraq\" under category \"Flags\"","completion":" 🇮🇶\n"}
+{"prompt":"Show the emoji with \"flag: Iran\" under category \"Flags\"","completion":" 🇮🇷\n"}
+{"prompt":"Show the emoji with \"flag: Iceland\" under category \"Flags\"","completion":" 🇮🇸\n"}
+{"prompt":"Show the emoji with \"flag: Italy\" under category \"Flags\"","completion":" 🇮🇹\n"}
+{"prompt":"Show the emoji with \"flag: Jersey\" under category \"Flags\"","completion":" 🇯🇪\n"}
+{"prompt":"Show the emoji with \"flag: Jamaica\" under category \"Flags\"","completion":" 🇯🇲\n"}
+{"prompt":"Show the emoji with \"flag: Jordan\" under category \"Flags\"","completion":" 🇯🇴\n"}
+{"prompt":"Show the emoji with \"flag: Japan\" under category \"Flags\"","completion":" 🇯🇵\n"}
+{"prompt":"Show the emoji with \"flag: Kenya\" under category \"Flags\"","completion":" 🇰🇪\n"}
+{"prompt":"Show the emoji with \"flag: Kyrgyzstan\" under category \"Flags\"","completion":" 🇰🇬\n"}
+{"prompt":"Show the emoji with \"flag: Cambodia\" under category \"Flags\"","completion":" 🇰🇭\n"}
+{"prompt":"Show the emoji with \"flag: Kiribati\" under category \"Flags\"","completion":" 🇰🇮\n"}
+{"prompt":"Show the emoji with \"flag: Comoros\" under category \"Flags\"","completion":" 🇰🇲\n"}
+{"prompt":"Show the emoji with \"flag: St. Kitts & Nevis\" under category \"Flags\"","completion":" 🇰🇳\n"}
+{"prompt":"Show the emoji with \"flag: North Korea\" under category \"Flags\"","completion":" 🇰🇵\n"}
+{"prompt":"Show the emoji with \"flag: South Korea\" under category \"Flags\"","completion":" 🇰🇷\n"}
+{"prompt":"Show the emoji with \"flag: Kuwait\" under category \"Flags\"","completion":" 🇰🇼\n"}
+{"prompt":"Show the emoji with \"flag: Cayman Islands\" under category \"Flags\"","completion":" 🇰🇾\n"}
+{"prompt":"Show the emoji with \"flag: Kazakhstan\" under category \"Flags\"","completion":" 🇰🇿\n"}
+{"prompt":"Show the emoji with \"flag: Laos\" under category \"Flags\"","completion":" 🇱🇦\n"}
+{"prompt":"Show the emoji with \"flag: Lebanon\" under category \"Flags\"","completion":" 🇱🇧\n"}
+{"prompt":"Show the emoji with \"flag: St. Lucia\" under category \"Flags\"","completion":" 🇱🇨\n"}
+{"prompt":"Show the emoji with \"flag: Liechtenstein\" under category \"Flags\"","completion":" 🇱🇮\n"}
+{"prompt":"Show the emoji with \"flag: Sri Lanka\" under category \"Flags\"","completion":" 🇱🇰\n"}
+{"prompt":"Show the emoji with \"flag: Liberia\" under category \"Flags\"","completion":" 🇱🇷\n"}
+{"prompt":"Show the emoji with \"flag: Lesotho\" under category \"Flags\"","completion":" 🇱🇸\n"}
+{"prompt":"Show the emoji with \"flag: Lithuania\" under category \"Flags\"","completion":" 🇱🇹\n"}
+{"prompt":"Show the emoji with \"flag: Luxembourg\" under category \"Flags\"","completion":" 🇱🇺\n"}
+{"prompt":"Show the emoji with \"flag: Latvia\" under category \"Flags\"","completion":" 🇱🇻\n"}
+{"prompt":"Show the emoji with \"flag: Libya\" under category \"Flags\"","completion":" 🇱🇾\n"}
+{"prompt":"Show the emoji with \"flag: Morocco\" under category \"Flags\"","completion":" 🇲🇦\n"}
+{"prompt":"Show the emoji with \"flag: Monaco\" under category \"Flags\"","completion":" 🇲🇨\n"}
+{"prompt":"Show the emoji with \"flag: Moldova\" under category \"Flags\"","completion":" 🇲🇩\n"}
+{"prompt":"Show the emoji with \"flag: Montenegro\" under category \"Flags\"","completion":" 🇲🇪\n"}
+{"prompt":"Show the emoji with \"flag: St. Martin\" under category \"Flags\"","completion":" 🇲🇫\n"}
+{"prompt":"Show the emoji with \"flag: Madagascar\" under category \"Flags\"","completion":" 🇲🇬\n"}
+{"prompt":"Show the emoji with \"flag: Marshall Islands\" under category \"Flags\"","completion":" 🇲🇭\n"}
+{"prompt":"Show the emoji with \"flag: North Macedonia\" under category \"Flags\"","completion":" 🇲🇰\n"}
+{"prompt":"Show the emoji with \"flag: Mali\" under category \"Flags\"","completion":" 🇲🇱\n"}
+{"prompt":"Show the emoji with \"flag: Myanmar (Burma)\" under category \"Flags\"","completion":" 🇲🇲\n"}
+{"prompt":"Show the emoji with \"flag: Mongolia\" under category \"Flags\"","completion":" 🇲🇳\n"}
+{"prompt":"Show the emoji with \"flag: Macao SAR China\" under category \"Flags\"","completion":" 🇲🇴\n"}
+{"prompt":"Show the emoji with \"flag: Northern Mariana Islands\" under category \"Flags\"","completion":" 🇲🇵\n"}
+{"prompt":"Show the emoji with \"flag: Martinique\" under category \"Flags\"","completion":" 🇲🇶\n"}
+{"prompt":"Show the emoji with \"flag: Mauritania\" under category \"Flags\"","completion":" 🇲🇷\n"}
+{"prompt":"Show the emoji with \"flag: Montserrat\" under category \"Flags\"","completion":" 🇲🇸\n"}
+{"prompt":"Show the emoji with \"flag: Malta\" under category \"Flags\"","completion":" 🇲🇹\n"}
+{"prompt":"Show the emoji with \"flag: Mauritius\" under category \"Flags\"","completion":" 🇲🇺\n"}
+{"prompt":"Show the emoji with \"flag: Maldives\" under category \"Flags\"","completion":" 🇲🇻\n"}
+{"prompt":"Show the emoji with \"flag: Malawi\" under category \"Flags\"","completion":" 🇲🇼\n"}
+{"prompt":"Show the emoji with \"flag: Mexico\" under category \"Flags\"","completion":" 🇲🇽\n"}
+{"prompt":"Show the emoji with \"flag: Malaysia\" under category \"Flags\"","completion":" 🇲🇾\n"}
+{"prompt":"Show the emoji with \"flag: Mozambique\" under category \"Flags\"","completion":" 🇲🇿\n"}
+{"prompt":"Show the emoji with \"flag: Namibia\" under category \"Flags\"","completion":" 🇳🇦\n"}
+{"prompt":"Show the emoji with \"flag: New Caledonia\" under category \"Flags\"","completion":" 🇳🇨\n"}
+{"prompt":"Show the emoji with \"flag: Niger\" under category \"Flags\"","completion":" 🇳🇪\n"}
+{"prompt":"Show the emoji with \"flag: Norfolk Island\" under category \"Flags\"","completion":" 🇳🇫\n"}
+{"prompt":"Show the emoji with \"flag: Nigeria\" under category \"Flags\"","completion":" 🇳🇬\n"}
+{"prompt":"Show the emoji with \"flag: Nicaragua\" under category \"Flags\"","completion":" 🇳🇮\n"}
+{"prompt":"Show the emoji with \"flag: Netherlands\" under category \"Flags\"","completion":" 🇳🇱\n"}
+{"prompt":"Show the emoji with \"flag: Norway\" under category \"Flags\"","completion":" 🇳🇴\n"}
+{"prompt":"Show the emoji with \"flag: Nepal\" under category \"Flags\"","completion":" 🇳🇵\n"}
+{"prompt":"Show the emoji with \"flag: Nauru\" under category \"Flags\"","completion":" 🇳🇷\n"}
+{"prompt":"Show the emoji with \"flag: Niue\" under category \"Flags\"","completion":" 🇳🇺\n"}
+{"prompt":"Show the emoji with \"flag: New Zealand\" under category \"Flags\"","completion":" 🇳🇿\n"}
+{"prompt":"Show the emoji with \"flag: Oman\" under category \"Flags\"","completion":" 🇴🇲\n"}
+{"prompt":"Show the emoji with \"flag: Panama\" under category \"Flags\"","completion":" 🇵🇦\n"}
+{"prompt":"Show the emoji with \"flag: Peru\" under category \"Flags\"","completion":" 🇵🇪\n"}
+{"prompt":"Show the emoji with \"flag: French Polynesia\" under category \"Flags\"","completion":" 🇵🇫\n"}
+{"prompt":"Show the emoji with \"flag: Papua New Guinea\" under category \"Flags\"","completion":" 🇵🇬\n"}
+{"prompt":"Show the emoji with \"flag: Philippines\" under category \"Flags\"","completion":" 🇵🇭\n"}
+{"prompt":"Show the emoji with \"flag: Pakistan\" under category \"Flags\"","completion":" 🇵🇰\n"}
+{"prompt":"Show the emoji with \"flag: Poland\" under category \"Flags\"","completion":" 🇵🇱\n"}
+{"prompt":"Show the emoji with \"flag: St. Pierre & Miquelon\" under category \"Flags\"","completion":" 🇵🇲\n"}
+{"prompt":"Show the emoji with \"flag: Pitcairn Islands\" under category \"Flags\"","completion":" 🇵🇳\n"}
+{"prompt":"Show the emoji with \"flag: Puerto Rico\" under category \"Flags\"","completion":" 🇵🇷\n"}
+{"prompt":"Show the emoji with \"flag: Palestinian Territories\" under category \"Flags\"","completion":" 🇵🇸\n"}
+{"prompt":"Show the emoji with \"flag: Portugal\" under category \"Flags\"","completion":" 🇵🇹\n"}
+{"prompt":"Show the emoji with \"flag: Palau\" under category \"Flags\"","completion":" 🇵🇼\n"}
+{"prompt":"Show the emoji with \"flag: Paraguay\" under category \"Flags\"","completion":" 🇵🇾\n"}
+{"prompt":"Show the emoji with \"flag: Qatar\" under category \"Flags\"","completion":" 🇶🇦\n"}
+{"prompt":"Show the emoji with \"flag: Réunion\" under category \"Flags\"","completion":" 🇷🇪\n"}
+{"prompt":"Show the emoji with \"flag: Romania\" under category \"Flags\"","completion":" 🇷🇴\n"}
+{"prompt":"Show the emoji with \"flag: Serbia\" under category \"Flags\"","completion":" 🇷🇸\n"}
+{"prompt":"Show the emoji with \"flag: Russia\" under category \"Flags\"","completion":" 🇷🇺\n"}
+{"prompt":"Show the emoji with \"flag: Rwanda\" under category \"Flags\"","completion":" 🇷🇼\n"}
+{"prompt":"Show the emoji with \"flag: Saudi Arabia\" under category \"Flags\"","completion":" 🇸🇦\n"}
+{"prompt":"Show the emoji with \"flag: Solomon Islands\" under category \"Flags\"","completion":" 🇸🇧\n"}
+{"prompt":"Show the emoji with \"flag: Seychelles\" under category \"Flags\"","completion":" 🇸🇨\n"}
+{"prompt":"Show the emoji with \"flag: Sudan\" under category \"Flags\"","completion":" 🇸🇩\n"}
+{"prompt":"Show the emoji with \"flag: Sweden\" under category \"Flags\"","completion":" 🇸🇪\n"}
+{"prompt":"Show the emoji with \"flag: Singapore\" under category \"Flags\"","completion":" 🇸🇬\n"}
+{"prompt":"Show the emoji with \"flag: St. Helena\" under category \"Flags\"","completion":" 🇸🇭\n"}
+{"prompt":"Show the emoji with \"flag: Slovenia\" under category \"Flags\"","completion":" 🇸🇮\n"}
+{"prompt":"Show the emoji with \"flag: Svalbard & Jan Mayen\" under category \"Flags\"","completion":" 🇸🇯\n"}
+{"prompt":"Show the emoji with \"flag: Slovakia\" under category \"Flags\"","completion":" 🇸🇰\n"}
+{"prompt":"Show the emoji with \"flag: Sierra Leone\" under category \"Flags\"","completion":" 🇸🇱\n"}
+{"prompt":"Show the emoji with \"flag: San Marino\" under category \"Flags\"","completion":" 🇸🇲\n"}
+{"prompt":"Show the emoji with \"flag: Senegal\" under category \"Flags\"","completion":" 🇸🇳\n"}
+{"prompt":"Show the emoji with \"flag: Somalia\" under category \"Flags\"","completion":" 🇸🇴\n"}
+{"prompt":"Show the emoji with \"flag: Suriname\" under category \"Flags\"","completion":" 🇸🇷\n"}
+{"prompt":"Show the emoji with \"flag: South Sudan\" under category \"Flags\"","completion":" 🇸🇸\n"}
+{"prompt":"Show the emoji with \"flag: São Tomé & Príncipe\" under category \"Flags\"","completion":" 🇸🇹\n"}
+{"prompt":"Show the emoji with \"flag: El Salvador\" under category \"Flags\"","completion":" 🇸🇻\n"}
+{"prompt":"Show the emoji with \"flag: Sint Maarten\" under category \"Flags\"","completion":" 🇸🇽\n"}
+{"prompt":"Show the emoji with \"flag: Syria\" under category \"Flags\"","completion":" 🇸🇾\n"}
+{"prompt":"Show the emoji with \"flag: Eswatini\" under category \"Flags\"","completion":" 🇸🇿\n"}
+{"prompt":"Show the emoji with \"flag: Tristan da Cunha\" under category \"Flags\"","completion":" 🇹🇦\n"}
+{"prompt":"Show the emoji with \"flag: Turks & Caicos Islands\" under category \"Flags\"","completion":" 🇹🇨\n"}
+{"prompt":"Show the emoji with \"flag: Chad\" under category \"Flags\"","completion":" 🇹🇩\n"}
+{"prompt":"Show the emoji with \"flag: French Southern Territories\" under category \"Flags\"","completion":" 🇹🇫\n"}
+{"prompt":"Show the emoji with \"flag: Togo\" under category \"Flags\"","completion":" 🇹🇬\n"}
+{"prompt":"Show the emoji with \"flag: Thailand\" under category \"Flags\"","completion":" 🇹🇭\n"}
+{"prompt":"Show the emoji with \"flag: Tajikistan\" under category \"Flags\"","completion":" 🇹🇯\n"}
+{"prompt":"Show the emoji with \"flag: Tokelau\" under category \"Flags\"","completion":" 🇹🇰\n"}
+{"prompt":"Show the emoji with \"flag: Timor-Leste\" under category \"Flags\"","completion":" 🇹🇱\n"}
+{"prompt":"Show the emoji with \"flag: Turkmenistan\" under category \"Flags\"","completion":" 🇹🇲\n"}
+{"prompt":"Show the emoji with \"flag: Tunisia\" under category \"Flags\"","completion":" 🇹🇳\n"}
+{"prompt":"Show the emoji with \"flag: Tonga\" under category \"Flags\"","completion":" 🇹🇴\n"}
+{"prompt":"Show the emoji with \"flag: Turkey\" under category \"Flags\"","completion":" 🇹🇷\n"}
+{"prompt":"Show the emoji with \"flag: Trinidad & Tobago\" under category \"Flags\"","completion":" 🇹🇹\n"}
+{"prompt":"Show the emoji with \"flag: Tuvalu\" under category \"Flags\"","completion":" 🇹🇻\n"}
+{"prompt":"Show the emoji with \"flag: Taiwan\" under category \"Flags\"","completion":" 🇹🇼\n"}
+{"prompt":"Show the emoji with \"flag: Tanzania\" under category \"Flags\"","completion":" 🇹🇿\n"}
+{"prompt":"Show the emoji with \"flag: Ukraine\" under category \"Flags\"","completion":" 🇺🇦\n"}
+{"prompt":"Show the emoji with \"flag: Uganda\" under category \"Flags\"","completion":" 🇺🇬\n"}
+{"prompt":"Show the emoji with \"flag: U.S. Outlying Islands\" under category \"Flags\"","completion":" 🇺🇲\n"}
+{"prompt":"Show the emoji with \"flag: United Nations\" under category \"Flags\"","completion":" 🇺🇳\n"}
+{"prompt":"Show the emoji with \"flag: United States\" under category \"Flags\"","completion":" 🇺🇸\n"}
+{"prompt":"Show the emoji with \"flag: Uruguay\" under category \"Flags\"","completion":" 🇺🇾\n"}
+{"prompt":"Show the emoji with \"flag: Uzbekistan\" under category \"Flags\"","completion":" 🇺🇿\n"}
+{"prompt":"Show the emoji with \"flag: Vatican City\" under category \"Flags\"","completion":" 🇻🇦\n"}
+{"prompt":"Show the emoji with \"flag: St. Vincent & Grenadines\" under category \"Flags\"","completion":" 🇻🇨\n"}
+{"prompt":"Show the emoji with \"flag: Venezuela\" under category \"Flags\"","completion":" 🇻🇪\n"}
+{"prompt":"Show the emoji with \"flag: British Virgin Islands\" under category \"Flags\"","completion":" 🇻🇬\n"}
+{"prompt":"Show the emoji with \"flag: U.S. Virgin Islands\" under category \"Flags\"","completion":" 🇻🇮\n"}
+{"prompt":"Show the emoji with \"flag: Vietnam\" under category \"Flags\"","completion":" 🇻🇳\n"}
+{"prompt":"Show the emoji with \"flag: Vanuatu\" under category \"Flags\"","completion":" 🇻🇺\n"}
+{"prompt":"Show the emoji with \"flag: Wallis & Futuna\" under category \"Flags\"","completion":" 🇼🇫\n"}
+{"prompt":"Show the emoji with \"flag: Samoa\" under category \"Flags\"","completion":" 🇼🇸\n"}
+{"prompt":"Show the emoji with \"flag: Kosovo\" under category \"Flags\"","completion":" 🇽🇰\n"}
+{"prompt":"Show the emoji with \"flag: Yemen\" under category \"Flags\"","completion":" 🇾🇪\n"}
+{"prompt":"Show the emoji with \"flag: Mayotte\" under category \"Flags\"","completion":" 🇾🇹\n"}
+{"prompt":"Show the emoji with \"flag: South Africa\" under category \"Flags\"","completion":" 🇿🇦\n"}
+{"prompt":"Show the emoji with \"flag: Zambia\" under category \"Flags\"","completion":" 🇿🇲\n"}
+{"prompt":"Show the emoji with \"flag: Zimbabwe\" under category \"Flags\"","completion":" 🇿🇼\n"}
+{"prompt":"Show the emoji with \"flag: England\" under category \"Flags\"","completion":" 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n"}
+{"prompt":"Show the emoji with \"flag: Scotland\" under category \"Flags\"","completion":" 🏴󠁧󠁢󠁳󠁣󠁴󠁿\n"}
+{"prompt":"Show the emoji with \"flag: Wales\" under category \"Flags\"","completion":" 🏴󠁧󠁢󠁷󠁬󠁳󠁿\n"}
